@@ -1,0 +1,26 @@
+
+
+.inputBox input{
+    border: none;
+    background-color: azure;
+    border-radius: 10px;
+    height: 35px;
+    margin: 4px;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.add {
+    background: linear-gradient(65deg,rgb(54, 221, 51) , rgb(178, 11, 39) , rgb(129, 196, 134),rgb(217, 123, 224)); 
+}
+
+.add:hover {
+    background: rgba(55, 103, 225, 0.873);
+    color: white;
+    cursor: pointer;
+    transform: left;
+    transition: 0.5s;
+    border: none;
+}
+
